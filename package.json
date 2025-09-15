@@ -2,5 +2,8 @@
   "name": "nerox-security-exploration",
   "version": "1.0.0",
   "main": "main.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "diswasm": "^0.5.5"
+  }
 }
